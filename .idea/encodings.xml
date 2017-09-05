@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reservation-business-services" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/room-services" charset="UTF-8" />
   </component>
 </project>
