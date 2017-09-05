@@ -1,0 +1,11 @@
+---
+spring:
+  profiles:
+    active: default
+  application:
+    name: roomServices
+  cloud:
+    config:
+      uri: http://localhost:9000
+server:
+  port:
